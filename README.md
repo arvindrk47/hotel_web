@@ -1,5 +1,5 @@
 # hotel_web
-This website is a demo project for html and css 
+This website is a fully responsive on mobile, tablet and PC. 
 
 
  
